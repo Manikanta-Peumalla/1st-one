@@ -1,0 +1,7 @@
+1.importing libraries such as numpy pandas matplotlib and sklearn
+2.load a dataset 
+3.split the dataset into two datasets such as dependent(x) and independent(y) features
+4.splinting x and y as training and test datasets
+5.visualyse the output with the help of maltplotlib
+---------------FINISH-----------------
+		
